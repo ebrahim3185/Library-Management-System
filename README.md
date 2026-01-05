@@ -21,5 +21,5 @@ A simple console-based library management system implemented in C++ as a Data St
 ## Report
 See the attached report file for detailed explanation.
 
-Developed by Ebrahim khodadadi 
+Developed by Ebrahim khodadadi \n
 email : khodadadie56@gmail.com
