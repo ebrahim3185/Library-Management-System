@@ -15,7 +15,7 @@ A simple console-based library management system implemented in C++ as a Data St
 - **Stack** (Array-based) → for operation history (LIFO, limited to 5)
 
 ## How to Run
-1. Compile: `g++ main.cpp -o library`
+1. Compile: `g++ library.cpp -o library`
 2. Run: `./library` (Linux/Mac) or `library.exe` (Windows)
 
 ## Report
